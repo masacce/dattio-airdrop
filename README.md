@@ -6,7 +6,7 @@ This page should help get you started developing with Vue 3 in Vite.
 
 ### Live View
 
-Build for Test Deployment on [Arlink](https://arlink.arweave.net).
+Build for Test Deployment on [Arlink](https://asc_arlink.arweave.net/).
 
 ### Project Setup
 
