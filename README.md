@@ -1,6 +1,8 @@
-## Airdrop ASC Simple Landing Page
+## Airdrop ASC Simple Page
 
-[![protocol.land](https://arweave.net/eZp8gOeR8Yl_cyH9jJToaCrt2He1PHr0pR4o-mHbEcY)](https://protocol.land/#/repository/<REPO_ID>)
+This page should help get you started developing with Vue 3 in Vite.
+
+[![protocol.land](https://arweave.net/eZp8gOeR8Yl_cyH9jJToaCrt2He1PHr0pR4o-mHbEcY)](https://protocol.land/#/repository/becc9a45-f339-46bc-9593-0b02c29ce25a)
 
 ### Live View
 
@@ -26,4 +28,4 @@ npm run build
 
 ### Credit
 
-This project was inspired by [HyperDeFiVault](https://protocol.land/#/repository/89a647b1-6404-4b41-8b36-87025a4599c4) & rebuilt with ♡ by hnfdm
+This project was inspired by [HyperDeFiVault](https://protocol.land/#/repository/89a647b1-6404-4b41-8b36-87025a4599c4) 
